@@ -1,1 +1,1 @@
-# bootstrap-install
+# partials
